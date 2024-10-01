@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Eduardo Carrenho
+Eduardo Carrenho da Silva
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
