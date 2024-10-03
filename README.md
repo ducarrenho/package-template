@@ -1,7 +1,7 @@
-# package-template 
+# image_processing 
 
 Description. 
-The package package-template is used to:
+The package image_processing is used to:
 	- processing:
 		- histogram matching
 		- structural similarity
@@ -18,7 +18,7 @@ The package package-template is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package-template 
+pip install image_processing
 ```
 
 ## Author
